@@ -1,0 +1,11 @@
+Wordpress DB Info 
+
+dbname: wordpressdb
+uname: wordpress
+password : WvCUghiN3QBjKa3Q
+
+Wp Login Info 
+
+uname : bimal
+password : bimal
+
